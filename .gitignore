@@ -1,0 +1,13 @@
+node_modules
+addstudent.js
+addteacher.js
+course-view.js
+Course.js
+edit-student.js
+edit-teacher.js
+index.js
+Person.js
+student-record.js
+Student.js
+teacher-record.js
+Teacher.js

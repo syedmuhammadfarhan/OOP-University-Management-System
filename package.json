@@ -1,0 +1,29 @@
+{
+  "name": "farhan-ums",
+  "version": "1.0.5",
+  "description": "university management system in typescript-oop",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "farhan-ums": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "cli",
+    "university management system"
+  ],
+  "author": "farhan",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^18.11.18"
+  },
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "inquirer": "^9.1.4",
+    "node-banner": "^1.4.0"
+  }
+}
